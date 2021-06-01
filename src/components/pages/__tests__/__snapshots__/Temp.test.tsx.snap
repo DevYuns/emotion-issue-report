@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[Temp] render renders without crashing 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    activeOpacity={0.7}
+    onPress={[Function]}
+    testID="btn-back"
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "backgroundColor": "#393D7A",
+            "borderBottomColor": "#393D7A",
+            "borderBottomLeftRadius": 4,
+            "borderBottomRightRadius": 4,
+            "borderBottomWidth": 2,
+            "borderLeftColor": "#393D7A",
+            "borderLeftWidth": 2,
+            "borderRightColor": "#393D7A",
+            "borderRightWidth": 2,
+            "borderTopColor": "#393D7A",
+            "borderTopLeftRadius": 4,
+            "borderTopRightRadius": 4,
+            "borderTopWidth": 2,
+            "height": 52,
+            "justifyContent": "center",
+            "width": 320,
+          },
+          Object {
+            "backgroundColor": "#000000",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontSize": 14,
+            },
+            Array [
+              Object {
+                "color": "#D3D8E8",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        GO BACK
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`[Temp] render should render [Dark] theme 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#232323",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    activeOpacity={0.7}
+    onPress={[Function]}
+    testID="btn-back"
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "backgroundColor": "#8A96DC",
+            "borderBottomColor": "#8A96DC",
+            "borderBottomLeftRadius": 4,
+            "borderBottomRightRadius": 4,
+            "borderBottomWidth": 2,
+            "borderLeftColor": "#8A96DC",
+            "borderLeftWidth": 2,
+            "borderRightColor": "#8A96DC",
+            "borderRightWidth": 2,
+            "borderTopColor": "#8A96DC",
+            "borderTopLeftRadius": 4,
+            "borderTopRightRadius": 4,
+            "borderTopWidth": 2,
+            "height": 52,
+            "justifyContent": "center",
+            "width": 320,
+          },
+          Object {
+            "backgroundColor": "#D3D8E8",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#D3D8E8",
+              "fontSize": 14,
+            },
+            Array [
+              Object {
+                "color": "#000000",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        GO BACK
+      </Text>
+    </View>
+  </View>
+</View>
+`;

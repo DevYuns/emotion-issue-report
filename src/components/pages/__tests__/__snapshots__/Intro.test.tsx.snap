@@ -1,0 +1,1149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[Intro] screen rendering test should render [Dark] theme 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "backgroundColor": "#232323",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "flex-start",
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "height": "100%",
+          "justifyContent": "flex-start",
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          Object {
+            "marginTop": 100,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "bottom": 40,
+          "flexDirection": "column",
+          "position": "absolute",
+          "width": "85%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-login"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "canInstrument": true,
+              "createTransformer": [Function],
+              "getCacheKey": [Function],
+              "process": [Function],
+            }
+          }
+          style={
+            Array [
+              Object {
+                "height": 24,
+                "left": 16,
+                "position": "absolute",
+                "width": 24,
+              },
+              undefined,
+            ]
+          }
+        />
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Login
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-navigate"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Navigate to Temp
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-theme"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Change theme
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`[Intro] screen rendering test should render [isDisabled] status 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "backgroundColor": "#232323",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "flex-start",
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "height": "100%",
+          "justifyContent": "flex-start",
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          Object {
+            "marginTop": 100,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "bottom": 40,
+          "flexDirection": "column",
+          "position": "absolute",
+          "width": "85%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-login"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "canInstrument": true,
+              "createTransformer": [Function],
+              "getCacheKey": [Function],
+              "process": [Function],
+            }
+          }
+          style={
+            Array [
+              Object {
+                "height": 24,
+                "left": 16,
+                "position": "absolute",
+                "width": 24,
+              },
+              undefined,
+            ]
+          }
+        />
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Login
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-navigate"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Navigate to Temp
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-theme"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Change theme
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`[Intro] screen rendering test should render [isLoading] status 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "backgroundColor": "#232323",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "flex-start",
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "height": "100%",
+          "justifyContent": "flex-start",
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          Object {
+            "marginTop": 100,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#D3D8E8",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "bottom": 40,
+          "flexDirection": "column",
+          "position": "absolute",
+          "width": "85%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-login"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "canInstrument": true,
+              "createTransformer": [Function],
+              "getCacheKey": [Function],
+              "process": [Function],
+            }
+          }
+          style={
+            Array [
+              Object {
+                "height": 24,
+                "left": 16,
+                "position": "absolute",
+                "width": 24,
+              },
+              undefined,
+            ]
+          }
+        />
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Login
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-navigate"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Navigate to Temp
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-theme"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#8A96DC",
+              "borderBottomColor": "#8A96DC",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#8A96DC",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#8A96DC",
+              "borderRightWidth": 2,
+              "borderTopColor": "#8A96DC",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#D3D8E8",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#000000",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Change theme
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`[Intro] screen rendering test should render outer component and snapshot matches 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "backgroundColor": "#FFFFFF",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "flex-start",
+        "overflow": "hidden",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+          "height": "100%",
+          "justifyContent": "flex-start",
+          "width": "100%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          Object {
+            "marginTop": 100,
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontSize": 18,
+            "lineHeight": 27,
+          },
+          undefined,
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "bottom": 40,
+          "flexDirection": "column",
+          "position": "absolute",
+          "width": "85%",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-login"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#393D7A",
+              "borderBottomColor": "#393D7A",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#393D7A",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#393D7A",
+              "borderRightWidth": 2,
+              "borderTopColor": "#393D7A",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "canInstrument": true,
+              "createTransformer": [Function],
+              "getCacheKey": [Function],
+              "process": [Function],
+            }
+          }
+          style={
+            Array [
+              Object {
+                "height": 24,
+                "left": 16,
+                "position": "absolute",
+                "width": 24,
+              },
+              undefined,
+            ]
+          }
+        />
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#D3D8E8",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Login
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-navigate"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#393D7A",
+              "borderBottomColor": "#393D7A",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#393D7A",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#393D7A",
+              "borderRightWidth": 2,
+              "borderTopColor": "#393D7A",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#D3D8E8",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Navigate to Temp
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 8,
+        }
+      }
+    />
+    <View
+      activeOpacity={0.7}
+      onPress={[Function]}
+      testID="btn-theme"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "#393D7A",
+              "borderBottomColor": "#393D7A",
+              "borderBottomLeftRadius": 4,
+              "borderBottomRightRadius": 4,
+              "borderBottomWidth": 2,
+              "borderLeftColor": "#393D7A",
+              "borderLeftWidth": 2,
+              "borderRightColor": "#393D7A",
+              "borderRightWidth": 2,
+              "borderTopColor": "#393D7A",
+              "borderTopLeftRadius": 4,
+              "borderTopRightRadius": 4,
+              "borderTopWidth": 2,
+              "height": 52,
+              "justifyContent": "center",
+              "width": 320,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+              },
+              Array [
+                Object {
+                  "color": "#D3D8E8",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Change theme
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
